@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 太子瑞應本起經
+#+DATE: 2015-08-30 19:34:25.796285
+#+PROPERTY: JUAN 0
